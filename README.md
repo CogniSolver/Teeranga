@@ -12,6 +12,8 @@ Welcome to the "Teeranga" repository, where the essence of the Indian tricolor c
 
 📱 **Responsive Splendor:** From large screens to mobile devices, the flag's beauty and dynamics remain intact, offering an immersive experience for everyone.
 
+## Live Demo: [Teeranga](https://cognisolver.github.io/Teeranga/)
+
 **Contributions and Exploration:**
 
 🌟 Whether you're a curious learner, an experienced developer, or simply someone who appreciates the nation's symbolism, Teeranga welcomes you to explore, learn, and contribute.
